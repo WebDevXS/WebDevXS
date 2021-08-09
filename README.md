@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WebDevXS
-- 👀 I’m interested in 
+- 👀 I’m a React web&app developer
 - 🌱 I’m currently working on big and of course,interesting projects.
 - 💞️ I’m open for a job offer
 - 📫 Plz reach me out at biggie000r@gmail.com(email)  or  +998917767269(instant call)
